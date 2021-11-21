@@ -1,0 +1,28 @@
+sidebar navigation
+
+dashboard
+  providers in
+    on call status (adult, peds, facility)
+    exam rooms and room colors for each provider and their associated MA
+    covering other provider status
+    other department staff in (RC, Radiology, Managers, Records dispatch, IT, phone operator, phone nurse)
+
+supplies request
+time off request
+phone directory - operation guide
+alerts
+daily updates
+time clock
+local hospitals census
+room tracker
+call light control
+health alerts
+weather alerts
+covid and flu trackers
+current radar
+Meal Planning
+calendar
+links to user guides (NGO, PP, Teams, Windows, 8 x 8 Phones, Patient Portal, SHARP Copiers, faxing, connected devices, etc)
+Groups
+Events
+
